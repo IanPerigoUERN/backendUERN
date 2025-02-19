@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Dom Quixote",
+      "author": "Miguel de Cervantes",
+      "synopsis": "Um romance sobre um homem que acredita ser um cavaleiro em busca de aventuras."
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "synopsis": "Uma distopia que explora os perigos do totalitarismo e da vigilância governamental."
+    },
+    {
+      "id": 3,
+      "title": "O Senhor dos Anéis",
+      "author": "J.R.R. Tolkien",
+      "synopsis": "Uma saga épica sobre a jornada para destruir um anel poderoso."
+    },
+    {
+      "id": 4,
+      "title": "O Pequeno Príncipe",
+      "author": "Antoine de Saint-Exupéry",
+      "synopsis": "Uma história filosófica sobre um pequeno príncipe e suas reflexões sobre a vida."
+    },
+    {
+      "id": 5,
+      "title": "Crime e Castigo",
+      "author": "Fiódor Dostoiévski",
+      "synopsis": "Um jovem estudante comete um crime e lida com as consequências psicológicas."
+    },
+    {
+      "id": 6,
+      "title": "Cem Anos de Solidão",
+      "author": "Gabriel García Márquez",
+      "synopsis": "A história da família Buendía na cidade fictícia de Macondo."
+    },
+    {
+      "id": 7,
+      "title": "A Revolução dos Bichos",
+      "author": "George Orwell",
+      "synopsis": "Uma sátira política sobre uma revolução animal que reflete a corrupção do poder."
+    },
+    {
+      "id": 8,
+      "title": "Orgulho e Preconceito",
+      "author": "Jane Austen",
+      "synopsis": "Uma história de amor e status social na Inglaterra do século XIX."
+    },
+    {
+      "id": 9,
+      "title": "O Hobbit",
+      "author": "J.R.R. Tolkien",
+      "synopsis": "A aventura de Bilbo Bolseiro para recuperar um tesouro guardado por um dragão."
+    },
+    {
+      "id": 10,
+      "title": "A Divina Comédia",
+      "author": "Dante Alighieri",
+      "synopsis": "Uma jornada alegórica pelo Inferno, Purgatório e Paraíso."
+    }
+  ]
+  
